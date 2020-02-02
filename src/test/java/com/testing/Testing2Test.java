@@ -14,4 +14,12 @@ public class Testing2Test {
 	  System.out.println("Test 5");
 	  
   }
+  public void architect() {
+	  System.out.println("Arch 1");
+	  
+  }
+  public void architecht() {
+	  System.out.println("arch 1");
+	  
+  }
 }
