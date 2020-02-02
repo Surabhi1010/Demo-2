@@ -25,6 +25,15 @@ public class Testing1Test {
 	  
   }
   @Test
+  public void test12() {
+	  
+	  System.out.println("Test1");
+	  System.out.println("added code");
+	  System.out.println("added code 2");
+	  
+  }
+  
+  @Test
   public void test2() {
 	  
 	  System.out.println("Test2");
