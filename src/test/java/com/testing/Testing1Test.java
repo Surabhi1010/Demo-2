@@ -20,6 +20,9 @@ public class Testing1Test {
   public void test1() {
 	  
 	  System.out.println("Test1");
+	  System.out.println("added code");
+	  System.out.println("added code 2");
+	  
   }
   @Test
   public void test2() {
